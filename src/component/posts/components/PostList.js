@@ -85,15 +85,7 @@ export class PostList extends Component {
                 break;
         }
     };
-
-    error = (action) => {
-        message.error('This is an error message');
-    };
-
-    warning = (action) => {
-        message.warning('This is a warning message');
-    };
-
+    
     render() {
         const {
             listPost,
