@@ -19,7 +19,7 @@ export class Navbar extends Component {
 const Wrapper = styled.div`
     
     .navB {
-        background-color: #1D1951;
+        background-color: #EcEcEc;
         color:  #fff;
 
         &-ico {
